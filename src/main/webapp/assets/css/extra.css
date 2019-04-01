@@ -1,0 +1,120 @@
+.cstm-icon-lg {
+	font-size: 1.0em;
+	line-height: 1.1em;
+}
+
+.cstm-icon-mlg {
+	font-size: 2.50em;
+	line-height: 1.1em;
+}
+
+.cstm-icon-xlg {
+	font-size: 5.00em;
+	line-height: 1.1em;
+}
+
+.cstm-form-error {
+	color: #dd1e32;
+	font-weight: 600;
+}
+
+.p-r-40 {
+	padding-right: 40px !important;
+}
+
+.p-l-0 {
+	padding-left: 0px !important;
+}
+
+.p-b-10 {
+	padding-bottom: 10px;
+}
+
+.p-b-20 {
+	padding-bottom: 20px;
+}
+
+.p-t-10 {
+	padding-top: 10px;
+}
+
+.p-t-20 {
+	padding-top: 20px;
+}
+
+.p-l-20 {
+	padding-left: 20px !important;
+}
+
+.m-b-10 {
+	margin-bottom: 10px;
+}
+
+.m-t-10 {
+	margin-top: 10px;
+}
+
+.m-t-20 {
+	margin-top: 20px;
+}
+
+
+.min-w-auto {
+	min-width: auto !important;
+}
+
+.min-h-150 {
+	min-height: 150px;
+}
+
+.cstm-widget-header {
+	padding: 15px;
+	min-height: 200px;
+	position: relative;
+	overflow: hidden;
+}
+
+.cstm-center-img {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.cstm-inline {
+	display: inline !important;
+}
+
+.bg-grey {
+	background-color: grey;
+}
+
+.bg-cstm-grey {
+	background-color: #575353;
+}
+
+text-white {
+	color: #fff !important;
+}
+
+.img-xlg {
+	width: 200px;
+	height: 200px;
+}
+
+.group-desc {
+	max-height: 70px;
+	overflow-y: auto;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.cstm-progress {
+	height: 10px;
+	margin-top: 5px;
+}
+
+.mar-all {
+	margin: 10px;
+}
